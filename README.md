@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![Ulasfe's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=ulasfe&show_icons=true&theme=synthwave)
+![Ulasfe's GitHub stats](https://github-readme-stats-git-master-statsn.vercel.app/api?username=ulasfe&show_icons=true&theme=synthwave)
+
 
 
 
