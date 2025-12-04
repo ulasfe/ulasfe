@@ -5,9 +5,9 @@
 
 
 
-# Hi there 👋, I'm [Your Name/Username]!
+# Hi there 👋, I'm Ulaş Demir!
 
-### 💻 A [Your Profession, e.g., Full-Stack Developer | Data Scientist | DevOps Engineer]
+### 💻 A Full-Stack Developer
 
 ---
 
