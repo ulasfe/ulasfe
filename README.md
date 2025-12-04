@@ -47,9 +47,8 @@ Here is an overview of the technologies I use and my core competencies, backed b
 
 ## 📈 Current Projects & Stats
 
-*(Optional: Add links to projects you are proud of!)*
 
-* **MyOrderProject**: A brief description and link.
+* **MyOrderProject**: This project implements core functionalities for order creation and order tracking. https://github.com/ulasfe/MyOrderProjectAPI
 
 ---
 
