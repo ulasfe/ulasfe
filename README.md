@@ -101,12 +101,6 @@ If anything here interests you, feel free to:
 Thanks for visiting — happy coding! 🚀
 
 
-### 📫 Connect with Me
-
-* **LinkedIn:** https://www.linkedin.com/in/ulas-fe/
-* **Email:** ulas.fe@gmail.com
-
-<br>
 
 ***
 
