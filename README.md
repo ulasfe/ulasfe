@@ -55,10 +55,11 @@ I focus on building clean, maintainable and reliable software. Here’s a snapsh
 ---
 
 ### 🧩 HackerRank
-(placeholder — share your profile link so I can update!)
-🔗 https://www.hackerrank.com/profile/ulas_fe
+<a href="https://www.hackerrank.com/profile/ulas_fe">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white" />
+</a>
 
-Badges coming right after I receive your link! 😎
+🔗 https://www.hackerrank.com/profile/ulas_fe  
 
 ---
 
