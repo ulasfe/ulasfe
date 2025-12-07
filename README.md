@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Ulaş 👋
 
 
 ![Ulasfe's GitHub stats](https://ulasfe-github-stats.vercel.app/api?username=ulasfe&show_icons=true&theme=synthwave)
 
 
 
-## Hi there, I'm Ulaş 👋
+
 
 I'm a Full-Stack Developer with 6+ years of experience building scalable, secure and high-performance applications.  
 I enjoy solving algorithmic problems and continuously improving myself through hands-on development and learning.
