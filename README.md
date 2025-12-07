@@ -67,16 +67,7 @@ I take pride in keeping up with modern engineering patterns, tools and cloud-nat
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulasfe&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasfe&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-### 🧷 Badges & Quick Links
+### 🧷 Quick Links
 
 <p align="left">
   <a href="https://github.com/ulasfe">
