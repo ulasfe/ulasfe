@@ -53,12 +53,16 @@ I focus on building clean, maintainable and reliable software. Here’s a snapsh
 - Building open-source tools for learning and collaboration
 
 ---
-
 ### 🧩 HackerRank & Competitive Programming
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ulas_fe)
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-3★-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ulas_fe)
-[![HackerRank Certificate](./download.png)](https://www.hackerrank.com/certificates/766bdae21b3a)  ](https://www.hackerrank.com/certificates/bac797ad92c3)
+[![Problem Solving Stars](https://img.shields.io/badge/Problem%20Solving-3★-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ulas_fe)
+
+[![Problem Solving Basic](./download.png)](https://www.hackerrank.com/certificates/766bdae21b3a)
+
+[![Angular Basic](./download.png)](https://www.hackerrank.com/certificates/bac797ad92c3)
+
+[![Software Engineer Intern](./download.png)](https://www.hackerrank.com/certificates/ce7d7450c872)
 
 ---
 
