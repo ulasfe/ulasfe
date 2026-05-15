@@ -58,11 +58,11 @@ I focus on building clean, maintainable and reliable software. Here’s a snapsh
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ulas_fe)
 [![Problem Solving Stars](https://img.shields.io/badge/Problem%20Solving-3★-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ulas_fe)
 
-[![Problem Solving Basic](./download.png)](https://www.hackerrank.com/certificates/766bdae21b3a)
+[![Problem Solving Basic](https://img.shields.io/badge/HackerRank-Problem%20Solving%20Basic-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/766bdae21b3a)
 
-[![Angular Basic](./download.png)](https://www.hackerrank.com/certificates/bac797ad92c3)
+[![Angular Basic](https://img.shields.io/badge/HackerRank-Angular%20Basic-DD0031?logo=angular&logoColor=white)](https://www.hackerrank.com/certificates/bac797ad92c3)
 
-[![Software Engineer Intern](./download.png)](https://www.hackerrank.com/certificates/ce7d7450c872)
+[![Software Engineer Intern](https://img.shields.io/badge/HackerRank-Software%20Engineer%20Intern-blue?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/ce7d7450c872)
 
 ---
 
