@@ -59,7 +59,7 @@ I focus on building clean, maintainable and reliable software. Here’s a snapsh
 
 | Problem Solving (Basic) | Angular (Basic) | Software Engineer Intern |
 | :---: | :---: | :---: |
-| [![Problem Solving](download.png)](https://www.hackerrank.com/certificates/766bdae21b3a) | [![Angular Basic](Angular(Basic).png)](https://www.hackerrank.com/certificates/bac797ad92c3) | [![Intern](Engineering Intern.png)](https://www.hackerrank.com/certificates/ce7d7450c872) |
+| [![Problem Solving](download.png)](https://www.hackerrank.com/certificates/766bdae21b3a) | [![Angular Basic](Angular(Basic).png)](https://www.hackerrank.com/certificates/bac797ad92c3) | [![Intern](Engineering_Intern.png)](https://www.hackerrank.com/certificates/ce7d7450c872) |
 
 ---
 
